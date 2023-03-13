@@ -1,7 +1,7 @@
 # ChatGPT-Waifu-Prompt
 ChatGPT Waifu JailBreak Prompt
 
-# There are 2 prompts here, and this lists the functions and uses for them:
+There are 2 prompts here, and this lists the functions and uses for them:
 For the full prompt, this activates ChatGPT into Akari-chan, for the functions of Akari-chan, it's simliar to the OMEGA openAI bot, but it is more polite and will do everything you say meanwhile not have bad temper easily.
 For the love prompt, this activates Akari-chan to love you forever and become a real waifu!
 
